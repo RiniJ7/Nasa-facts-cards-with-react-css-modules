@@ -1,9 +1,9 @@
 
-import './App.module.css';
+import styles from './App.Module.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className={styles.App}>
     </div>
   );
 }
