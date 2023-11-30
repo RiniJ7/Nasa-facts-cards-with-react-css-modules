@@ -1,5 +1,5 @@
 
-import styles from './App.Module.css';
+import styles from './App.module.css';
 import Title from './Title/Title';
 import Background from './Background/Background';
 import Grid from './Grid/Grid';
