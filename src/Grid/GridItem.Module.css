@@ -47,3 +47,7 @@
   .flash {
     animation-name: flash;
   }
+
+  .badge {
+    margin-bottom: 0px;
+  }
