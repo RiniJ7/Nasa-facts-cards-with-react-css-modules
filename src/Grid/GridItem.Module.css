@@ -18,6 +18,8 @@
   background-color: rgba(0, 0, 0, 0.3);
 }
 
+
+
 .title {
   margin-top: 5px;
   margin-bottom: 10px;
@@ -26,3 +28,22 @@
 .fact {
   text-align: justify;
 }
+
+/* imorted from Animate.css */
+
+@keyframes flash {
+    from,
+    50%,
+    to {
+      opacity: 1;
+    }
+  
+    25%,
+    75% {
+      opacity: 0;
+    }
+  }
+  
+  .flash {
+    animation-name: flash;
+  }
