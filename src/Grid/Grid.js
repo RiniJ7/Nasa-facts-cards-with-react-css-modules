@@ -1,6 +1,7 @@
 import React from "react";
 import GridItem from "./GridItem";
-
+import mediaStyles from './Media.module.css';
+import cx from 'classnames';
 import styles from './Grid.module.css';
 
 export default class App extends React.Component {
@@ -14,7 +15,7 @@ export default class App extends React.Component {
   }
   render() {
     return (
-   <section className={styles.grid}>
+   <section className={cx(styles.grid, mediaStyles.grid)}>
     {this.renderFacts()}
    </section>
     );
