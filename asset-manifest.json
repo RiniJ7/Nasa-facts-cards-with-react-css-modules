@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/RiniJ7/react-styles-css/static/css/main.8e418135.css",
-    "main.js": "/RiniJ7/react-styles-css/static/js/main.1c19ba3f.js",
-    "static/js/787.f0ade232.chunk.js": "/RiniJ7/react-styles-css/static/js/787.f0ade232.chunk.js",
-    "static/media/nebula.png": "/RiniJ7/react-styles-css/static/media/nebula.277ffde5d349de95e6f3.png",
-    "static/media/stars.png": "/RiniJ7/react-styles-css/static/media/stars.262cbef8e564be909024.png",
-    "index.html": "/RiniJ7/react-styles-css/index.html",
-    "main.8e418135.css.map": "/RiniJ7/react-styles-css/static/css/main.8e418135.css.map",
-    "main.1c19ba3f.js.map": "/RiniJ7/react-styles-css/static/js/main.1c19ba3f.js.map",
-    "787.f0ade232.chunk.js.map": "/RiniJ7/react-styles-css/static/js/787.f0ade232.chunk.js.map"
+    "main.css": "/react-styles-css/static/css/main.8fd56a36.css",
+    "main.js": "/react-styles-css/static/js/main.5b1cbd59.js",
+    "static/js/787.f0ade232.chunk.js": "/react-styles-css/static/js/787.f0ade232.chunk.js",
+    "static/media/nebula.png": "/react-styles-css/static/media/nebula.277ffde5d349de95e6f3.png",
+    "static/media/stars.png": "/react-styles-css/static/media/stars.262cbef8e564be909024.png",
+    "index.html": "/react-styles-css/index.html",
+    "main.8fd56a36.css.map": "/react-styles-css/static/css/main.8fd56a36.css.map",
+    "main.5b1cbd59.js.map": "/react-styles-css/static/js/main.5b1cbd59.js.map",
+    "787.f0ade232.chunk.js.map": "/react-styles-css/static/js/787.f0ade232.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e418135.css",
-    "static/js/main.1c19ba3f.js"
+    "static/css/main.8fd56a36.css",
+    "static/js/main.5b1cbd59.js"
   ]
 }
