@@ -3,11 +3,23 @@
     bottom: 0px;
     margin-top: -500px;
     z-index: 99;
-}
-
-.video {
+    width: 100%; /* Set width to 100% to span the entire width of its container */
+    height: auto;
+  }
+  
+  .video {
     width: 100%;
     height: auto;
-    opacity: 0.5;
-}
-
+    opacity: 0;
+    animation: fadeInVideo 7s forwards; /* Animation to fade in the smoke */
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1; /* Adjust opacity as needed */
+    }
+  }
+  
