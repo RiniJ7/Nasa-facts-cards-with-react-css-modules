@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './Smoke.Module.css';
+import styles from './Smoke.module.css';
 import smokeVideo from './Assets/smoke.mov';
 import smokeSound from './Assets/NASA.mp3';
 
